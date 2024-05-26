@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.pf{
+    position:absolute;
+    top:3%;
+    color:purple;
+font-size: larger;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.main-header {
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+
+.header2 {
+    background-color: whitesmoke;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.nav2 {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.nav2 a {
+    margin-right: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.nav2 a:hover {
+    color: red;
+}
+footer {
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+  .img {
+    position: absolute;
+    top: 100px;
+    left: 0%;
+    width: 50%;
+    height: 78%;
+  }
+  .head {
+    position: absolute;
+    top: 170px;
+    left: 830px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: wheat;
+    font-size: x-large;
+  }
+  .p {
+    position: absolute;
+    top: 260px;
+    left: 785px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    color: white;
+  }
+  

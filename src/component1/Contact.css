@@ -1,0 +1,88 @@
+body {
+  background-image: url("C:\Users\TANISHA MIRIAM\OneDrive\Desktop\react2\my-app\public\bgb1.jpg");
+  background-size: cover; 
+  background-position: center;
+  height: 100vh; 
+  width: 100%; 
+}
+
+.main-header {
+    background-color: black;
+    color:white;
+    padding:10px;
+    text-align: center;
+}
+
+.header2 {
+    background-color: whitesmoke;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.nav2 {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.nav2 a {
+    margin-right: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.nav2 a:hover {
+    color: red;
+}
+footer {
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+  .contact-form {
+    margin: 10px auto;
+    max-width: 400px;
+    background-color: gray;
+    padding: 50px;
+    border-radius: 10px;
+  }
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  .contact-form input[type="submit"] {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .contact-form input[type="submit"]:hover {
+    background-color: brown;
+  }
+  .error-message {
+    color: brown;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  .cm{
+    text-align: center;
+    color: azure;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  }
+  
